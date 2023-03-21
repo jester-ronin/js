@@ -1,0 +1,37 @@
+.field1 {
+    width: 150px;
+    height: 150px;
+    padding: 50px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.field2 {
+    width: 150px;
+    height: 150px;
+    padding: 50px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.field3 {
+    width: 150px;
+    height: 150px;
+    padding: 50px;
+    margin: 5px;
+    display: flex;
+    align-items: end;
+    
+}
+
+
+.mainField {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    width: 950px;
+    height: 450px;
+    padding: 150px;
+}
